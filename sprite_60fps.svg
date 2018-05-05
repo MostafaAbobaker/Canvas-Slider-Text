@@ -1,0 +1,4606 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9100 113" width="9100px" height="113px">
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="0px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_10">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-dasharray="0,350.4470940489669"
+        stroke-dashoffset="350.096997051915"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_10)"
+            d="M 5.7 110.4 C 28.2 110 28.2 110 42.5 110.9 C 56.8 111.9 92.4 110.6 92.4 110.6 L 92.4 113.8 L 5.7 113.8 L 5.7 110.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="100px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_11">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-dasharray="0.8666540441145869,349.58044000485233"
+        stroke-dashoffset="350.096997051915"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_11)"
+            d="M 5.7 110.4 C 28.2 110 28.2 110 42.5 110.9 C 56.8 111.9 92.4 110.6 92.4 110.6 L 92.4 113.8 L 5.7 113.8 L 5.7 110.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="200px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_12">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-dasharray="3.725296321835706,346.7217977271312"
+        stroke-dashoffset="350.096997051915"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_12)"
+            d="M 5.7 110.4 C 28.2 110 28.2 110 42.5 110.9 C 56.8 111.9 92.4 110.6 92.4 110.6 L 92.4 113.8 L 5.7 113.8 L 5.7 110.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="300px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_13">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-dasharray="9.054563848192648,341.3925302007743"
+        stroke-dashoffset="350.096997051915"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_13)"
+            d="M 5.7 110.4 C 28.2 110 28.2 110 42.5 110.9 C 56.8 111.9 92.4 110.6 92.4 110.6 L 92.4 113.8 L 5.7 113.8 L 5.7 110.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="400px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_14">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-dasharray="17.480625576143225,332.9664684728237"
+        stroke-dashoffset="350.096997051915"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_14)"
+            d="M 5.7 110.4 C 28.2 110 28.2 110 42.5 110.9 C 56.8 111.9 92.4 110.6 92.4 110.6 L 92.4 113.8 L 5.7 113.8 L 5.7 110.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="500px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_15">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-dasharray="29.795173542760576,320.65192050620635"
+        stroke-dashoffset="350.096997051915"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_15)"
+            d="M 5.7 110.4 C 28.2 110 28.2 110 42.5 110.9 C 56.8 111.9 92.4 110.6 92.4 110.6 L 92.4 113.8 L 5.7 113.8 L 5.7 110.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="600px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_16">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-dasharray="46.894363718934336,303.5527303300326"
+        stroke-dashoffset="350.096997051915"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_16)"
+            d="M 5.7 110.4 C 28.2 110 28.2 110 42.5 110.9 C 56.8 111.9 92.4 110.6 92.4 110.6 L 92.4 113.8 L 5.7 113.8 L 5.7 110.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="700px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_17">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-dasharray="69.48097105568235,280.96612299328456"
+        stroke-dashoffset="350.096997051915"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_17)"
+            d="M 5.7 110.4 C 28.2 110 28.2 110 42.5 110.9 C 56.8 111.9 92.4 110.6 92.4 110.6 L 92.4 113.8 L 5.7 113.8 L 5.7 110.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="800px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_18">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-dasharray="97.3457084104593,253.10138563850765"
+        stroke-dashoffset="350.096997051915"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_18)"
+            d="M 5.7 110.4 C 28.2 110 28.2 110 42.5 110.9 C 56.8 111.9 92.4 110.6 92.4 110.6 L 92.4 113.8 L 5.7 113.8 L 5.7 110.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="900px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_19">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-dasharray="128.58912450098163,221.8579695479853"
+        stroke-dashoffset="350.096997051915"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_19)"
+            d="M 5.7 110.4 C 28.2 110 28.2 110 42.5 110.9 C 56.8 111.9 92.4 110.6 92.4 110.6 L 92.4 113.8 L 5.7 113.8 L 5.7 110.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="1000px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_110">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-dasharray="160.08246100665028,190.36463304231665"
+        stroke-dashoffset="350.096997051915"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_110)"
+            d="M 5.7 110.4 C 28.2 110 28.2 110 42.5 110.9 C 56.8 111.9 92.4 110.6 92.4 110.6 L 92.4 113.8 L 5.7 113.8 L 5.7 110.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="1100px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_111">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-dasharray="189.21181193022335,161.23528211874358"
+        stroke-dashoffset="350.096997051915"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_111)"
+            d="M 5.7 110.4 C 28.2 110 28.2 110 42.5 110.9 C 56.8 111.9 92.4 110.6 92.4 110.6 L 92.4 113.8 L 5.7 113.8 L 5.7 110.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="1200px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_112">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-dasharray="214.81767815973004,135.6294158892369"
+        stroke-dashoffset="350.096997051915"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_112)"
+            d="M 5.7 110.4 C 28.2 110 28.2 110 42.5 110.9 C 56.8 111.9 92.4 110.6 92.4 110.6 L 92.4 113.8 L 5.7 113.8 L 5.7 110.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="1300px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_113">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-dasharray="236.81251784550068,113.63457620346625"
+        stroke-dashoffset="350.096997051915"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_113)"
+            d="M 5.7 110.4 C 28.2 110 28.2 110 42.5 110.9 C 56.8 111.9 92.4 110.6 92.4 110.6 L 92.4 113.8 L 5.7 113.8 L 5.7 110.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="1400px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_114">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-dasharray="255.55939220971388,94.88770183925307"
+        stroke-dashoffset="350.096997051915"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_114)"
+            d="M 5.7 110.4 C 28.2 110 28.2 110 42.5 110.9 C 56.8 111.9 92.4 110.6 92.4 110.6 L 92.4 113.8 L 5.7 113.8 L 5.7 110.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="1500px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_115">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-dasharray="271.52168605142685,78.9254079975401"
+        stroke-dashoffset="350.096997051915"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_115)"
+            d="M 5.7 110.4 C 28.2 110 28.2 110 42.5 110.9 C 56.8 111.9 92.4 110.6 92.4 110.6 L 92.4 113.8 L 5.7 113.8 L 5.7 110.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="1600px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_116">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-dasharray="285.1301821029832,65.31691194598375"
+        stroke-dashoffset="350.096997051915"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_116)"
+            d="M 5.7 110.4 C 28.2 110 28.2 110 42.5 110.9 C 56.8 111.9 92.4 110.6 92.4 110.6 L 92.4 113.8 L 5.7 113.8 L 5.7 110.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="1700px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_117">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-dasharray="296.7485418530829,53.69855219588403"
+        stroke-dashoffset="350.096997051915"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_117)"
+            d="M 5.7 110.4 C 28.2 110 28.2 110 42.5 110.9 C 56.8 111.9 92.4 110.6 92.4 110.6 L 92.4 113.8 L 5.7 113.8 L 5.7 110.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="1800px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_118">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-dasharray="306.67373461327264,43.773359435694275"
+        stroke-dashoffset="350.096997051915"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_118)"
+            d="M 5.7 110.4 C 28.2 110 28.2 110 42.5 110.9 C 56.8 111.9 92.4 110.6 92.4 110.6 L 92.4 113.8 L 5.7 113.8 L 5.7 110.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="1900px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_119">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-dasharray="315.1461696491437,35.30092439982323"
+        stroke-dashoffset="350.096997051915"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_119)"
+            d="M 5.7 110.4 C 28.2 110 28.2 110 42.5 110.9 C 56.8 111.9 92.4 110.6 92.4 110.6 L 92.4 113.8 L 5.7 113.8 L 5.7 110.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="2000px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_120">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-dasharray="322.36083673674045,28.086257312226515"
+        stroke-dashoffset="350.096997051915"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_120)"
+            d="M 5.7 110.4 C 28.2 110 28.2 110 42.5 110.9 C 56.8 111.9 92.4 110.6 92.4 110.6 L 92.4 113.8 L 5.7 113.8 L 5.7 110.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="2100px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_121">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-dasharray="328.4769275438301,21.970166505136895"
+        stroke-dashoffset="350.096997051915"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_121)"
+            d="M 5.7 110.4 C 28.2 110 28.2 110 42.5 110.9 C 56.8 111.9 92.4 110.6 92.4 110.6 L 92.4 113.8 L 5.7 113.8 L 5.7 110.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="2200px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_122">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-dasharray="333.6255159444338,16.821578104533135"
+        stroke-dashoffset="350.096997051915"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_122)"
+            d="M 5.7 110.4 C 28.2 110 28.2 110 42.5 110.9 C 56.8 111.9 92.4 110.6 92.4 110.6 L 92.4 113.8 L 5.7 113.8 L 5.7 110.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="2300px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_123">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-dasharray="337.9155110877321,12.531582961234822"
+        stroke-dashoffset="350.096997051915"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_123)"
+            d="M 5.7 110.4 C 28.2 110 28.2 110 42.5 110.9 C 56.8 111.9 92.4 110.6 92.4 110.6 L 92.4 113.8 L 5.7 113.8 L 5.7 110.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="2400px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_124">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-dasharray="341.4382292220655,9.008864826901428"
+        stroke-dashoffset="350.096997051915"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_124)"
+            d="M 5.7 110.4 C 28.2 110 28.2 110 42.5 110.9 C 56.8 111.9 92.4 110.6 92.4 110.6 L 92.4 113.8 L 5.7 113.8 L 5.7 110.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="2500px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_125">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-dasharray="344.2709053692567,6.176188679710219"
+        stroke-dashoffset="350.096997051915"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_125)"
+            d="M 5.701 110.079 C 28.145 109.68 28.194 109.637 42.512 110.615 C 56.811 111.664 92.401 110.297 92.401 110.297 L 92.401 113.8 L 5.701 113.8 L 5.701 110.079 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="2600px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_126">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-dasharray="346.47940371205414,3.9676903369128302"
+        stroke-dashoffset="350.096997051915"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_126)"
+            d="M 5.704 109.019 C 27.965 108.623 28.174 108.44 42.552 109.674 C 56.849 110.886 92.403 109.3 92.403 109.3 L 92.403 113.799 L 5.704 113.799 L 5.704 109.019 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="2700px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_127">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-dasharray="348.12032445755426,2.3267695914126616"
+        stroke-dashoffset="350.096997051915"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_127)"
+            d="M 5.71 107.043 C 27.628 106.653 28.138 106.208 42.627 107.921 C 56.919 109.435 92.408 107.44 92.408 107.44 L 92.408 113.797 L 5.71 113.797 L 5.71 107.043 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="2800px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_128">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-dasharray="349.2426549946166,1.2044390543503611"
+        stroke-dashoffset="350.096997051915"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_128)"
+            d="M 5.72 103.919 C 27.097 103.539 28.08 102.68 42.745 105.148 C 57.03 107.142 92.415 104.498 92.415 104.498 L 92.415 113.795 L 5.72 113.795 L 5.72 103.919 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="2900px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_129">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-dasharray="349.8890750250357,0.5580190239312285"
+        stroke-dashoffset="350.096997051915"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_129)"
+            d="M 5.734 99.353 C 26.319 98.987 27.996 97.524 42.917 101.096 C 57.191 103.789 92.426 100.2 92.426 100.2 L 92.426 113.791 L 5.734 113.791 L 5.734 99.353 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="3000px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_130">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_130)"
+            d="M 5.754 93.014 C 25.24 92.667 27.879 90.363 43.156 95.469 C 57.416 99.135 92.44 94.232 92.44 94.232 L 92.44 113.787 L 5.754 113.787 L 5.754 93.014 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="3100px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_131">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_131)"
+            d="M 5.779 84.64 C 23.814 84.319 27.724 80.905 43.472 88.037 C 57.713 92.987 92.46 86.348 92.46 86.348 L 92.46 113.78 L 5.779 113.78 L 5.779 84.64 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="3200px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_132">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_132)"
+            d="M 5.811 74.309 C 22.055 74.02 27.533 69.237 43.862 78.868 C 58.079 85.401 92.483 76.622 92.483 76.622 L 92.483 113.772 L 5.811 113.772 L 5.811 74.309 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="3300px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_133">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_133)"
+            d="M 5.847 62.725 C 20.083 62.472 27.318 56.154 44.3 68.588 C 58.49 76.897 92.51 65.716 92.51 65.716 L 92.51 113.763 L 5.847 113.763 L 5.847 62.725 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="3400px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_134">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_134)"
+            d="M 5.883 51.049 C 18.095 50.832 27.103 42.967 44.741 58.225 C 58.903 68.324 92.537 54.724 92.537 54.724 L 92.537 113.754 L 5.883 113.754 L 5.883 51.049 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="3500px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_135">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_135)"
+            d="M 5.916 40.249 C 16.256 40.065 26.903 30.769 45.148 48.64 C 59.286 60.395 92.562 44.556 92.562 44.556 L 92.562 113.746 L 5.916 113.746 L 5.916 40.249 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="3600px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_136">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_136)"
+            d="M 5.945 30.755 C 14.64 30.601 26.727 20.047 45.507 40.214 C 59.623 53.424 92.584 35.619 92.584 35.619 L 92.584 113.739 L 5.945 113.739 L 5.945 30.755 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="3700px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_137">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_137)"
+            d="M 5.971 22.601 C 13.251 22.471 26.577 10.837 45.814 32.976 C 59.912 47.437 92.603 27.942 92.603 27.942 L 92.603 113.732 L 5.971 113.732 L 5.971 22.601 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="3800px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_138">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_138)"
+            d="M 5.992 15.65 C 12.068 15.542 26.448 2.987 46.077 26.808 C 60.158 42.334 92.619 21.398 92.619 21.398 L 92.619 113.727 L 5.992 113.727 L 5.992 15.65 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="3900px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_139">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_139)"
+            d="M 6.01 9.732 C 11.06 9.642 26.339 -3.697 46.3 21.555 C 60.368 37.989 92.633 15.826 92.633 15.826 L 92.633 113.722 L 6.01 113.722 L 6.01 9.732 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="4000px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_140">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_140)"
+            d="M 6.026 4.687 C 10.201 4.613 26.245 -9.396 46.491 17.077 C 60.546 34.285 92.644 11.076 92.644 11.076 L 92.644 113.719 L 6.026 113.719 L 6.026 4.687 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="4100px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_141">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_141)"
+            d="M 6.039 0.379 C 9.468 0.318 26.166 -14.261 46.653 13.254 C 60.699 31.122 92.654 7.021 92.654 7.021 L 92.654 113.715 L 6.039 113.715 L 6.039 0.379 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="4200px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_142">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_142)"
+            d="M 6.05 -3.301 C 8.841 -3.35 26.098 -18.417 46.792 9.988 C 60.829 28.42 92.663 3.557 92.663 3.557 L 92.663 113.712 L 6.05 113.712 L 6.05 -3.301 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="4300px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_143">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_143)"
+            d="M 6.06 -6.442 C 8.306 -6.482 26.04 -21.965 46.911 7.201 C 60.941 26.114 92.67 0.599 92.67 0.599 L 92.67 113.71 L 6.06 113.71 L 6.06 -6.442 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="4400px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_144">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_144)"
+            d="M 6.068 -9.117 C 7.851 -9.148 25.99 -24.986 47.012 4.827 C 61.036 24.15 92.676 -1.919 92.676 -1.919 L 92.676 113.708 L 6.068 113.708 L 6.068 -9.117 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="4500px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_145">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_145)"
+            d="M 6.075 -11.384 C 7.465 -11.409 25.948 -27.547 47.097 2.814 C 61.116 22.485 92.681 -4.054 92.681 -4.054 L 92.681 113.706 L 6.075 113.706 L 6.075 -11.384 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="4600px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_146">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_146)"
+            d="M 6.081 -13.293 C 7.14 -13.312 25.913 -29.703 47.169 1.12 C 61.184 21.084 92.686 -5.851 92.686 -5.851 L 92.686 113.705 L 6.081 113.705 L 6.081 -13.293 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="4700px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_147">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_147)"
+            d="M 6.086 -14.884 C 6.869 -14.898 25.884 -31.499 47.23 -0.292 C 61.24 19.916 92.69 -7.348 92.69 -7.348 L 92.69 113.703 L 6.086 113.703 L 6.086 -14.884 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="4800px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_148">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_148)"
+            d="M 6.09 -16.19 C 6.647 -16.2 25.859 -32.974 47.279 -1.451 C 61.286 18.957 92.693 -8.578 92.693 -8.578 L 92.693 113.702 L 6.09 113.702 L 6.09 -16.19 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,81.7817"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="4900px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_149">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_149)"
+            d="M 6.093 -17.24 C 6.468 -17.247 25.84 -34.16 47.318 -2.383 C 61.323 18.186 92.695 -9.566 92.695 -9.566 L 92.695 113.702 L 6.093 113.702 L 6.093 -17.24 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0.1011788921343155,81.68052110786569"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="5000px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_150">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_150)"
+            d="M 6.096 -18.059 C 6.328 -18.063 25.825 -35.085 47.349 -3.11 C 61.352 17.585 92.697 -10.337 92.697 -10.337 L 92.697 113.701 L 6.096 113.701 L 6.096 -18.059 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0.42541113270255154,81.35628886729745"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="5100px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_151">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_151)"
+            d="M 6.098 -18.667 C 6.225 -18.669 25.814 -35.772 47.372 -3.65 C 61.374 17.138 92.698 -10.91 92.698 -10.91 L 92.698 113.701 L 6.098 113.701 L 6.098 -18.667 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="1.0087153437342835,80.77298465626572"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="5200px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_152">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_152)"
+            d="M 6.099 -19.083 C 6.154 -19.084 25.806 -36.242 47.388 -4.019 C 61.389 16.833 92.699 -11.302 92.699 -11.302 L 92.699 113.7 L 6.099 113.7 L 6.099 -19.083 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="1.894922168470921,79.88677783152909"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="5300px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_153">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_153)"
+            d="M 6.1 -19.323 C 6.113 -19.323 25.801 -36.513 47.397 -4.232 C 61.397 16.657 92.7 -11.527 92.7 -11.527 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.323 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="3.137154669913879,78.64454533008612"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="5400px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_154">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_154)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="4.798853138156903,76.9828468618431"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,71.7717"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="5500px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_155">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_155)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="6.95311784717357,74.82858215282643"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0.12184718207839035,71.64985281792161"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="5600px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_156">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_156)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="9.67772399310455,72.10397600689545"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0.516969270280837,71.25473072971916"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="5700px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_157">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_157)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="13.0410741894111,68.7406258105889"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="1.2381806124973291,70.53351938750266"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="5800px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_158">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_158)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="17.073463451939357,64.70823654806064"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="2.3518118940691695,69.41988810593084"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="5900px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_159">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_159)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="21.72479137899561,60.05690862100439"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="3.9402287013313164,67.83147129866869"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="6000px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_160">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_160)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="26.83146488357184,54.95023511642816"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="6.1020630311180435,65.66963696888196"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0,61.7617"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="6100px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_161">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_161)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="32.13432209802079,49.64737790197922"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="8.944888907252492,62.82681109274751"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0.15273639868993563,61.608963601310066"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="6200px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_162">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_162)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="37.35746714303837,44.42423285696164"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="12.559566933591043,59.21213306640896"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="0.6565345746829642,61.10516542531704"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="6300px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_163">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_163)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="42.291176542058466,39.49052345794154"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="16.963313745539928,54.808386254460075"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="1.5957480188001818,60.165951981199825"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="6400px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_164">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_164)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="46.82188002935519,34.95981997064481"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="22.021957363734476,49.74974263626553"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="3.08073078926782,58.68096921073218"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="6500px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_165">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_165)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="50.914171080436,30.86752891956401"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="27.424216120599883,44.347483879400116"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="5.251008215062517,56.510691784937485"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="6600px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_166">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_166)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="54.57910389413531,27.202596105864693"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="32.784949744869685,38.98675025513032"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="8.264516022195975,53.49718397780403"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="6700px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_167">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_167)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="57.84928807936908,23.932411920630923"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="37.803568566737766,33.968131433262236"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="12.24510907044399,49.51659092955602"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="6800px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_168">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_168)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="60.764277084148326,21.017422915851675"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="42.330919675955904,29.4407803240441"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="17.15590324824945,44.605796751750546"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="6900px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_169">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_169)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="63.36335911819336,18.418340881806646"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="46.335846723258754,25.43585327674125"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="22.662145201245647,39.099554798754355"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="7000px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_170">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_170)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="65.68253327657519,16.099166723424812"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="49.84833800256605,21.92336199743395"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="28.212432346700986,33.54926765329902"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="7100px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_171">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_171)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="67.75357255490921,14.028127445090787"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="52.92057912952774,18.85112087047226"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="33.34609806539875,28.415601934601252"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="7200px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_172">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_172)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="69.6040319539484,12.177668046051616"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="55.60774600703138,16.163953992968622"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="37.858795859622596,23.90290414037741"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="7300px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_173">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_173)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="71.25763373380012,10.524066266199885"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="57.9604047811997,13.811295218800304"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="41.73509762753185,20.026602372468155"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="7400px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_174">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_174)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="72.734764222483,9.046935777517005"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="60.022339055319904,11.749360944680099"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="45.03898814362336,16.722711856376648"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="7500px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_175">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_175)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="74.05296614510947,7.728733854890536"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="61.830581588282,9.941118411718003"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="47.8521328958694,13.9095671041306"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="7600px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_176">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_176)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="75.22738150617803,6.554318493821973"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="63.41620064833591,8.35549935166409"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="50.2504516859518,11.511248314048201"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="7700px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_177">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_177)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="76.27113250626412,5.510567493735878"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="64.8052446678626,6.966455332137406"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="52.29803507746214,9.463664922537863"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="7800px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_178">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_178)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="77.19564191032387,4.586058089676133"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="66.0196236718845,5.752076328115497"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="54.047220013238395,7.71447998676161"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="7900px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_179">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_179)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="78.01089955354894,3.770800446451059"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="67.0778615536118,4.693838446388207"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="55.54037547048366,6.22132452951634"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="8000px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_180">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_180)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="78.72568301764758,3.0560169823524155"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="67.99571387647548,3.7759861235245253"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="56.81186583759099,4.949834162409012"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="8100px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_181">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_181)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="79.3477401921349,2.4339598078650946"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="68.78666672421326,2.985033275786739"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="57.88974655629213,3.87195344370787"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="8200px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_182">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_182)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="79.88394050440446,1.897759495595537"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="69.46233697704191,2.309363022958084"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="58.79711767627392,2.9645823237260824"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="8300px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_183">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_183)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="80.34040053333392,1.441299466666081"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="70.03279329599923,1.7389067040007804"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="59.55317300542674,2.2085269945732575"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="8400px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_184">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_184)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="80.72258871311443,1.0591112868855628"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="70.5068141767447,1.264885823255308"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="60.17400583381042,1.5876941661895858"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="8500px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_185">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_185)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="81.03541295768913,0.7462870423108681"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="70.89209630495132,0.8796036950486803"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="60.67322782015548,1.088472179844519"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="8600px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_186">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_186)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="81.2832943048088,0.49840569519119565"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="71.19542367273112,0.576276327268875"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="61.06244666207085,0.6992533379291519"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="8700px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_187">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_187)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="81.47022908155131,0.311470918448688"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="71.42280563765257,0.3488943623474277"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="61.35163740306527,0.41006259693473696"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="8800px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_188">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_188)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="81.59984161137103,0.18185838862896278"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="71.5795903002576,0.19210969974240028"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="61.54943342736671,0.21226657263329754"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="8900px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_189">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_189)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="81.67542909643169,0.10627090356832058"
+        stroke-dashoffset="81.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="71.67055816962826,0.10114183037173897"
+        stroke-dashoffset="71.7"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-dasharray="61.663356472159194,0.09834352784081063"
+        stroke-dashoffset="61.7"
+        stroke-miterlimit="10"/>
+</svg>
+
+<svg
+    viewBox="0 0 100 113"
+    width="100px"
+    height="113px"
+    x="9000px"
+    y="0px">
+    <defs>
+        <clipPath id="clip_path_190">
+            <path d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"/>
+        </clipPath>
+    </defs>
+    <path
+        d="M 80.7 92.4 L 54 92.4 L 38.2 109.3 L 38.3 92.4 L 18.1 92.4 C 11.5 92.4 6.1 87 6.1 80.4 L 6.1 17.8 C 6.1 11.2 11.5 5.8 18.1 5.8 L 80.7 5.8 C 87.3 5.8 92.7 11.2 92.7 17.8 L 92.7 80.4 C 92.7 87 87.3 92.4 80.7 92.4 Z"
+        fill="#ffffff"
+        stroke="#000000"
+        stroke-width="3"
+        stroke-miterlimit="10"/>
+    <g>
+        <path
+            clip-path="url(#clip_path_190)"
+            d="M 6.1 -19.4 C 6.1 -19.4 25.8 -36.6 47.4 -4.3 C 61.4 16.6 92.7 -11.6 92.7 -11.6 L 92.7 113.7 L 6.1 113.7 L 6.1 -19.4 Z"
+            fill="#000000"
+            stroke-width="1"/>
+    </g>
+    <path
+        d="M 0 27.3 L 81.7 27.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 47.3 L 71.7 47.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-miterlimit="10"/>
+    <path
+        d="M 0 67.3 L 61.7 67.3"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="15"
+        stroke-miterlimit="10"/>
+</svg>
+
+</svg>
